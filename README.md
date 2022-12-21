@@ -1,3 +1,6 @@
 # jeuDeLoie_Java
 
-la fonction verify est à ameliorer
+
+Jeu de l'oie console fait à lissu de ma semaine de cours sur java.
+
+La fonction verify est à ameliorer.
